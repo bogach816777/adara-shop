@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/adara-shop/static/css/main.bab548e4.css",
+    "main.js": "/adara-shop/static/js/main.bd880939.js",
+    "static/media/cart.png": "/adara-shop/static/media/cart.427f0fe88453c51d151d.png",
+    "static/media/logo.svg": "/adara-shop/static/media/logo.9b0b58f362a0cbe507915370c759b3d6.svg",
+    "index.html": "/adara-shop/index.html",
+    "main.bab548e4.css.map": "/adara-shop/static/css/main.bab548e4.css.map",
+    "main.bd880939.js.map": "/adara-shop/static/js/main.bd880939.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bab548e4.css",
+    "static/js/main.bd880939.js"
+  ]
+}
